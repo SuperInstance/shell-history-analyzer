@@ -3,7 +3,8 @@ description = "shell-history-analyzer - SuperInstance ecosystem crate"
 repository = "https://github.com/SuperInstance/shell-history-analyzer"
 name = "shell-history-analyzer"
 version = "0.1.0"
-edition = "2024"
+license = "MIT OR Apache-2.0"
+edition = "2021"
 
 [dependencies]
 anyhow = "1.0.102"
